@@ -1,4 +1,4 @@
 # 2D-Geometric-Transformations
-![](ProjectScreenshots/screenshot1.jpg)
-![](ProjectScreenshots/screenshot2.png)
-![](ProjectScreenshots/screenshot3.png)
+![](Projectscreenshots/screenshot1.jpg)
+![](Projectscreenshots/screenshot2.png)
+![](Projectscreenshots/screenshot3.png)
